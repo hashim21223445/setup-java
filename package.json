@@ -51,7 +51,7 @@
     "jest-circus": "^29.7.0",
     "prettier": "^2.8.4",
     "ts-jest": "^29.1.2",
-    "typescript": "^5.3.3"
+    "typescript": "^5.5.3"
   },
   "bugs": {
     "url": "https://github.com/actions/setup-java/issues"
